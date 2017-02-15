@@ -21,6 +21,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Get File Information.lvlibp" Type="LVLibp" URL="../Get File Information.lvlibp">
 			<Item Name="BuildErrorSource.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/BuildErrorSource.vi"/>
+			<Item Name="Compare Two Paths - Scalar__ogtk.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/user.lib/_OpenG.lib/file/file.llb/Compare Two Paths - Scalar__ogtk.vi"/>
+			<Item Name="Constant_File Information Type.vi" Type="VI" URL="../Get File Information.lvlibp/Constant_File Information Type.vi"/>
+			<Item Name="control_Hierarchy.ctl" Type="VI" URL="../Get File Information.lvlibp/control_Hierarchy.ctl"/>
 			<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			<Item Name="FileVersionInfo.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/FileVersionInfo.vi"/>
 			<Item Name="FileVersionInformation.ctl" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/FileVersionInformation.ctl"/>
@@ -29,6 +32,9 @@
 			<Item Name="GetFileVersionInfo.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/GetFileVersionInfo.vi"/>
 			<Item Name="GetFileVersionInfoSize.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/GetFileVersionInfoSize.vi"/>
 			<Item Name="MoveMemory.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/MoveMemory.vi"/>
+			<Item Name="subvi_Counter.vi" Type="VI" URL="../Get File Information.lvlibp/subvi_Counter.vi"/>
+			<Item Name="subvi_Get Folder Hierarchy.vi" Type="VI" URL="../Get File Information.lvlibp/subvi_Get Folder Hierarchy.vi"/>
+			<Item Name="subvi_List Folders.vi" Type="VI" URL="../Get File Information.lvlibp/subvi_List Folders.vi"/>
 			<Item Name="VerQueryValue.vi" Type="VI" URL="../Get File Information.lvlibp/1abvi3w/vi.lib/Platform/fileVersionInfo.llb/VerQueryValue.vi"/>
 		</Item>
 		<Item Name="idea.ico" Type="Document" URL="../idea.ico"/>
@@ -155,7 +161,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7CF656B5-2978-4AD6-BD24-715ABD4F8063}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">2015</Property>
 				<Property Name="Destination[0].destName" Type="Str">Version Checker.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../build/NI_AB_PROJECTNAME.exe</Property>
